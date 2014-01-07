@@ -31,3 +31,13 @@ my_last_name = "Smith"
 my_full_name = my_first_name + " " + my_last_name
 
 puts "my full name is #{my_full_name}"
+
+=begin
+
+This is a
+
+multi-line
+
+comment
+
+=end
